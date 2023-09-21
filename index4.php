@@ -1,6 +1,6 @@
 <?php
     $num = 23.8;
-    if(is_real($num)) {
+    if(is_integer($num)) {
         echo "Numero inteiro";
     }
     else {
